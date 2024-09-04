@@ -57,7 +57,7 @@ Las notas brindadas en este repositorio están escritas en notebooks accesibles 
 - **Binder**
 
   - Este repositorio se puede usar a través de la plataforma  _Binder_.
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/curso_intro_python_poly/HEAD)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/curso_intro_python_poly/main)
   
 
   
