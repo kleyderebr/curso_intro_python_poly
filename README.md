@@ -58,6 +58,13 @@ Las notas brindadas en este repositorio están escritas en notebooks accesibles 
 
   - Este repositorio se puede usar a través de la plataforma  _Binder_.
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/curso_intro_python_poly/main)
+
+
+### Referencias
+Este curso esta basado en los siguientes materiales:
+- https://github.com/andelpe/curso-intro-python de Antonio Delgado Peris
+- Introducción a la programación con Python, Andrés Marzal Isabel Gracia,https://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf
+- http://python.org
   
 
   
