@@ -59,6 +59,13 @@ Las notas brindadas en este repositorio están escritas en notebooks accesibles 
   - Este repositorio se puede usar a través de la plataforma  _Binder_.
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/curso_intro_python_poly/main)
 
+- **Uso de Google Cobal**
+
+  - Este repositorio se puede usar a través de Google Colab.
+  <a target="_blank" href="https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/curso_intro_python_poly">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ### Referencias
 Este curso esta basado en los siguientes materiales:
